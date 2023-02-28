@@ -1,7 +1,7 @@
 # Problem: Pascal's Triangle II
-# Submission Date: 2023-10-16 11:21:34 UTC
+# Submission Date: 2023-02-28 14:02:16 UTC
 # Language: python3
-# Runtime: 34 ms
-# Memory: 16.1 MB
+# Runtime: 24 ms
+# Memory: 13.9 MB
 # Status: Accepted
 
