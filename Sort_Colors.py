@@ -1,7 +1,7 @@
 # Problem: Sort Colors
-# Submission Date: 2024-06-12 08:56:09 UTC
+# Submission Date: 2023-02-28 19:34:08 UTC
 # Language: python3
-# Runtime: 36 ms
-# Memory: 16.5 MB
+# Runtime: 32 ms
+# Memory: 13.8 MB
 # Status: Accepted
 
