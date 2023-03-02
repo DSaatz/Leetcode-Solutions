@@ -1,7 +1,7 @@
 # Problem: Single Number
-# Submission Date: 2023-12-20 10:23:21 UTC
+# Submission Date: 2023-03-02 19:40:28 UTC
 # Language: python3
-# Runtime: 120 ms
-# Memory: 19.8 MB
+# Runtime: 137 ms
+# Memory: 16.7 MB
 # Status: Accepted
 
