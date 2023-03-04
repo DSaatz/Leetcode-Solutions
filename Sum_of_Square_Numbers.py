@@ -1,7 +1,7 @@
 # Problem: Sum of Square Numbers
-# Submission Date: 2024-06-17 12:31:14 UTC
+# Submission Date: 2023-03-04 16:17:21 UTC
 # Language: python3
-# Runtime: 103 ms
-# Memory: 16.4 MB
+# Runtime: 119 ms
+# Memory: 13.7 MB
 # Status: Accepted
 
