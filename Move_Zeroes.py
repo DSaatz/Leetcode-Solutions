@@ -1,7 +1,7 @@
 # Problem: Move Zeroes
-# Submission Date: 2023-12-20 10:18:43 UTC
+# Submission Date: 2023-06-19 11:08:10 UTC
 # Language: python3
-# Runtime: 864 ms
-# Memory: 19 MB
+# Runtime: 1134 ms
+# Memory: 18 MB
 # Status: Accepted
 
