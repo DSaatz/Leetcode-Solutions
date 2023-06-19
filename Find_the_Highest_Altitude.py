@@ -1,7 +1,7 @@
 # Problem: Find the Highest Altitude
-# Submission Date: 2023-12-20 10:21:43 UTC
+# Submission Date: 2023-06-19 10:48:50 UTC
 # Language: python3
-# Runtime: 38 ms
-# Memory: 17.4 MB
+# Runtime: 49 ms
+# Memory: 16.4 MB
 # Status: Accepted
 
