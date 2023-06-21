@@ -1,0 +1,7 @@
+# Problem: Tenth Line
+# Submission Date: 2023-06-21 08:57:58 UTC
+# Language: bash
+# Runtime: 31 ms
+# Memory: 3.6 MB
+# Status: Accepted
+
