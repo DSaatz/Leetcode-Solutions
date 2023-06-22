@@ -1,7 +1,7 @@
 # Problem: N-th Tribonacci Number
-# Submission Date: 2023-12-20 10:22:53 UTC
+# Submission Date: 2023-06-22 15:37:47 UTC
 # Language: python3
-# Runtime: 42 ms
-# Memory: 17.3 MB
+# Runtime: 40 ms
+# Memory: 16.2 MB
 # Status: Accepted
 
