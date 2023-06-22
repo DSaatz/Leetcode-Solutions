@@ -1,7 +1,7 @@
 # Problem: Reverse Words in a String
-# Submission Date: 2023-12-20 10:17:32 UTC
+# Submission Date: 2023-06-22 15:06:33 UTC
 # Language: python3
-# Runtime: 35 ms
-# Memory: 17.4 MB
+# Runtime: 34 ms
+# Memory: 16.4 MB
 # Status: Accepted
 
