@@ -1,7 +1,7 @@
 # Problem: Find the Difference of Two Arrays
-# Submission Date: 2023-12-20 10:22:16 UTC
+# Submission Date: 2023-06-22 11:06:59 UTC
 # Language: python3
-# Runtime: 548 ms
-# Memory: 17.5 MB
+# Runtime: 829 ms
+# Memory: 16.8 MB
 # Status: Accepted
 
