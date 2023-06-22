@@ -1,7 +1,7 @@
 # Problem: Merge Strings Alternately
-# Submission Date: 2023-08-24 06:57:17 UTC
+# Submission Date: 2023-06-22 10:49:36 UTC
 # Language: python3
-# Runtime: 30 ms
-# Memory: 16.4 MB
+# Runtime: 47 ms
+# Memory: 16.3 MB
 # Status: Accepted
 
