@@ -1,7 +1,7 @@
 # Problem: Kth Largest Element in an Array
-# Submission Date: 2023-12-20 10:22:35 UTC
+# Submission Date: 2023-09-04 07:32:41 UTC
 # Language: python3
-# Runtime: 441 ms
-# Memory: 30.7 MB
+# Runtime: 495 ms
+# Memory: 29.3 MB
 # Status: Accepted
 
