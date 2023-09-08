@@ -1,7 +1,7 @@
 # Problem: Reverse Vowels of a String
-# Submission Date: 2023-12-20 10:17:08 UTC
+# Submission Date: 2023-09-08 08:54:03 UTC
 # Language: python3
-# Runtime: 64 ms
-# Memory: 18.7 MB
+# Runtime: 67 ms
+# Memory: 17.6 MB
 # Status: Accepted
 
