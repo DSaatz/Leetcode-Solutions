@@ -1,0 +1,7 @@
+# Problem: Valid Phone Numbers
+# Submission Date: 2023-09-22 05:52:03 UTC
+# Language: bash
+# Runtime: 80 ms
+# Memory: 3.8 MB
+# Status: Accepted
+
