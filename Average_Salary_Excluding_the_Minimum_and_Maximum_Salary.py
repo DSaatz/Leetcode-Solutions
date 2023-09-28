@@ -1,7 +1,7 @@
 # Problem: Average Salary Excluding the Minimum and Maximum Salary
-# Submission Date: 2023-09-28 08:53:36 UTC
+# Submission Date: 2023-09-28 08:52:56 UTC
 # Language: python3
-# Runtime: 37 ms
-# Memory: 16.1 MB
+# Runtime: 41 ms
+# Memory: 16.4 MB
 # Status: Accepted
 
