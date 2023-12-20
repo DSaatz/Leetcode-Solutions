@@ -1,0 +1,7 @@
+# Problem: Create a DataFrame from List
+# Submission Date: 2023-12-20 13:45:40 UTC
+# Language: pythondata
+# Runtime: 423 ms
+# Memory: 60.4 MB
+# Status: Accepted
+
