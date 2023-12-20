@@ -1,0 +1,7 @@
+# Problem: Method Chaining
+# Submission Date: 2023-12-20 15:45:56 UTC
+# Language: pythondata
+# Runtime: 623 ms
+# Memory: 60.8 MB
+# Status: Accepted
+
