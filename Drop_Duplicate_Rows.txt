@@ -1,0 +1,7 @@
+# Problem: Drop Duplicate Rows
+# Submission Date: 2023-12-20 14:11:51 UTC
+# Language: pythondata
+# Runtime: 516 ms
+# Memory: 60.6 MB
+# Status: Accepted
+
