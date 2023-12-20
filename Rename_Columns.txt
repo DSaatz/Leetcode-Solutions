@@ -1,0 +1,7 @@
+# Problem: Rename Columns
+# Submission Date: 2023-12-20 14:20:48 UTC
+# Language: pythondata
+# Runtime: 522 ms
+# Memory: 60.6 MB
+# Status: Accepted
+
