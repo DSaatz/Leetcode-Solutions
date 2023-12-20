@@ -1,0 +1,7 @@
+# Problem: Create a New Column
+# Submission Date: 2023-12-20 14:07:51 UTC
+# Language: pythondata
+# Runtime: 470 ms
+# Memory: 60.2 MB
+# Status: Accepted
+
