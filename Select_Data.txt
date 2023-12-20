@@ -1,0 +1,7 @@
+# Problem: Select Data
+# Submission Date: 2023-12-20 13:56:15 UTC
+# Language: pythondata
+# Runtime: 511 ms
+# Memory: 61 MB
+# Status: Accepted
+
