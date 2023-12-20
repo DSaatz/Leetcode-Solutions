@@ -1,0 +1,7 @@
+# Problem: Change Data Type
+# Submission Date: 2023-12-20 15:06:08 UTC
+# Language: pythondata
+# Runtime: 452 ms
+# Memory: 60.1 MB
+# Status: Accepted
+
