@@ -1,0 +1,7 @@
+# Problem: Display the First Three Rows
+# Submission Date: 2023-12-20 13:50:24 UTC
+# Language: pythondata
+# Runtime: 695 ms
+# Memory: 60.4 MB
+# Status: Accepted
+
