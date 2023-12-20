@@ -1,7 +1,7 @@
 # Problem: Reshape Data: Concatenate
-# Submission Date: 2023-12-20 15:12:35 UTC
+# Submission Date: 2023-12-20 15:12:05 UTC
 # Language: pythondata
-# Runtime: 575 ms
-# Memory: 60.6 MB
+# Runtime: 447 ms
+# Memory: 60.9 MB
 # Status: Accepted
 
