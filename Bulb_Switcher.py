@@ -1,7 +1,7 @@
 # Problem: Bulb Switcher
-# Submission Date: 2024-03-13 14:54:55 UTC
+# Submission Date: 2024-03-13 14:50:42 UTC
 # Language: python3
-# Runtime: 32 ms
-# Memory: 16.5 MB
+# Runtime: 47 ms
+# Memory: 16.6 MB
 # Status: Accepted
 
