@@ -1,0 +1,7 @@
+# Problem: Second Highest Salary
+# Submission Date: 2024-08-21 12:01:25 UTC
+# Language: postgresql
+# Runtime: 230 ms
+# Memory: 0B
+# Status: Accepted
+
