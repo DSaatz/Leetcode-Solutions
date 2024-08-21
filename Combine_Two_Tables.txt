@@ -1,0 +1,7 @@
+# Problem: Combine Two Tables
+# Submission Date: 2024-08-21 11:55:16 UTC
+# Language: postgresql
+# Runtime: 386 ms
+# Memory: 0B
+# Status: Accepted
+
