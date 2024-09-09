@@ -1,0 +1,7 @@
+# Problem: Article Views I
+# Submission Date: 2024-09-09 12:57:35 UTC
+# Language: postgresql
+# Runtime: 357 ms
+# Memory: 0B
+# Status: Accepted
+
