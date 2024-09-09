@@ -1,0 +1,7 @@
+# Problem: Invalid Tweets
+# Submission Date: 2024-09-09 13:04:06 UTC
+# Language: postgresql
+# Runtime: 2205 ms
+# Memory: 0B
+# Status: Accepted
+
