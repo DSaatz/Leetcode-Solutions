@@ -1,0 +1,7 @@
+# Problem: Recyclable and Low Fat Products
+# Submission Date: 2024-09-09 12:46:24 UTC
+# Language: postgresql
+# Runtime: 297 ms
+# Memory: 0B
+# Status: Accepted
+
