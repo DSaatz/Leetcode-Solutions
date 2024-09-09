@@ -1,0 +1,7 @@
+# Problem: Big Countries
+# Submission Date: 2024-09-09 12:54:24 UTC
+# Language: postgresql
+# Runtime: 312 ms
+# Memory: 0B
+# Status: Accepted
+
